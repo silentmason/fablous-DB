@@ -1,0 +1,9 @@
+/* Optional: Basic styling */
+body {
+    margin: 0;
+    overflow: hidden; /* Prevent scrollbars */
+}
+
+canvas {
+    background-color: #eee;
+}
